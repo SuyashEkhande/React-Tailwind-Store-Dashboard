@@ -7,8 +7,7 @@ This is a responsive dashboard for a store built with React and styled using Tai
 ## Installation 
 1. Clone the repository:
  `git clone https://github.com/SuyashEkhande/React-Tailwind-Store-Dashboard.git`
-2. Navigate into the project directory: -   
-`cd React-Tailwind-Store-Dashboard`
+2. Navigate into the project directory: `cd React-Tailwind-Store-Dashboard`
 3. `npm install`
 4. `npm run dev`
 
